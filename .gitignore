@@ -26,3 +26,8 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 .DS_Store
+pubspec.lock
+.dart_tool
+GeneratedPluginRegistrant.swift
+generated_plugin_registrant.cc
+generated_plugins.cmake
